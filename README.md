@@ -1,6 +1,6 @@
 <img width="100%" src="./images/banner.png"/>
 
-I'm a Backend Engineer focused on scalable systems, architecture and infrastructure.
+I'm a Software Engineer focused on scalable systems, architecture and infrastructure.
 
 Currently working on:
 - Distributed backend systems
