@@ -21,6 +21,6 @@ TypeScript • Node.js • Express • Docker • MongoDB • PostgreSQL • Red
 ## Contact
 
 - Website: [whos.leivaa.dev](https://whos.leivaa.dev)
-- LinkedIn: [Adrián Leiva Rojano](linkedin.com/in/adrianleivarojano)
-- X: [@leivaa21_](x.com/Leivaa21_)
+- LinkedIn: [Adrián Leiva Rojano](https://linkedin.com/in/adrianleivarojano)
+- X: [@leivaa21_](https://x.com/Leivaa21_)
 - Email: adrianleivasoftware@gmail.com
