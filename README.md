@@ -8,7 +8,7 @@ Currently working on:
 - Infrastructure & observability
 - Product-oriented side projects
 
-> More info at [whos.leivaa.dev](https://whos.leivaa.dev)
+> More info at [leivaa.dev](https://leivaa.dev)
 
 ---
 
@@ -20,7 +20,7 @@ TypeScript • Node.js • Express • Docker • MongoDB • PostgreSQL • Red
 
 ## Contact
 
-- Website: [whos.leivaa.dev](https://whos.leivaa.dev)
+- Website: [leivaa.dev](https://leivaa.dev)
 - LinkedIn: [Adrián Leiva Rojano](https://linkedin.com/in/adrianleivarojano)
 - X: [@leivaa21_](https://x.com/Leivaa21_)
 - Email: adrianleivasoftware@gmail.com
